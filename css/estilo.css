@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'bubblegum';
-    src: url('../_fonts/bubblegum-sans-regular.otf');
+    src: url('../fonts/bubblegum-sans-regular.otf');
 }
 
 @font-face {
     font-family: 'titilliumWeb';
-    src: url('../_fonts/TitilliumWeb-Light.ttf');
+    src: url('../fonts/TitilliumWeb-Light.ttf');
 }
 
 p {
